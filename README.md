@@ -1,9 +1,9 @@
-Welcome to presto.social (fork of HumHub - HumHub is a flexible open source social network application written in PHP.)
+Welcome to presto.social 
 =================
 
 
 
-presto.social is a social network for musicians
+presto.social is a social network for musicians (fork of HumHub - HumHub is a flexible open source social network application written in PHP.)
 
 
 
