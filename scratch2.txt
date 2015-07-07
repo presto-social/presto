@@ -37,6 +37,9 @@ Dutch:
 Russianzorr:
 <br><br><ul><li>presto.social всегда будет бесплатным</li><li>Мы не продаем ваши данные</li><li>Приложение не нужно</li><li>Современные меры безопасности</li></ul>
 
+FrancaisP:
+<strong>Inscription</strong><br><br><ul><li>C’est gratuit (et ça le restera toujours)</li><li>Nous ne vendons pas vos informations</li><li>Pas App nécessaire </li><li>Normes de sécurité modernes</li></ul>
+
 
 Find replace
 
