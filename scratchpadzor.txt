@@ -1,0 +1,34 @@
+scrtatchpadddzzzor:
+changing to red theme!<start>
+change #708fa0 to #d47373
+
+#6fdbe8 to #e86f6f
+
+#7f9baa to #aa7f7f
+
+#dffcff to #ffdfdf
+
+#bac2c7 to #c7baba
+
+#b8c7d3 to #d3b8b8
+
+#627d92 to #927362
+
+</start>
+
+GREEEN
+#72dce8 to #77e872
+
+
+THINGS which are changed compared to vanilla HumHub:
+
+{Somewhere} changed from “powered by HumHub”
+
+themes dir: /themes
+
+translations@ /protected/modules_core/user/messages/{language}/views_auth_login.php
+
+english@ /protected/modules_core/user/views/auth/login.php
+
+disabled member notifications (see file) @protected/modules_core/wall/widgets/views/contentForm.php
+

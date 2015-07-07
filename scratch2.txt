@@ -1,0 +1,52 @@
+Presto 3 login (primitive) translations:
+
+>>presto.social is free always will be 
+presto.social ist und bleibt kostenlos
+>>We don’t sell your data
+Wir verkaufen Ihre Daten nicht an dritte
+>>No App needed
+Keine App notwendig
+
+<a href=“privacy_policy.html”>Privacy Policy</a>
+presto.social ist und bleibt kostenlos. add free. does not sell information about users
+
+ (think of good formulation!!)
+
+>>No App needed	
+
+>>By registering you agree with the terms and conditions
+away:  <br><table><tr><td>presto.social ist und bleibt kostenlos.</td></tr></table>
+
+
+try; <br><br><ul><li>presto.social ist und bleibt kostenlos</li><li>Wir respektieren privacy und verwenden ihre Daten nicht</li></ul>
+
+
+Deutsch:
+
+<br><br><ul><li>presto.social ist und bleibt kostenlos</li><li>Wir verkaufen Ihre Daten nicht an dritte</li><li>Benötigt keine App</li><li>Moderne Sicherheitsstandarts</li></ul>
+
+
+English:
+
+<br><br><ul><li>presto.social is free always will be</li><li>We don’t sell your data</li><li>No App needed</li><li>Modern security standards</li></ul>
+
+
+Dutch:
+<br><br><ul><li>presto.social is en blijft gratis</li><li>We verkopen uw gegevens niet aan derden</li><li>Geen App nodig</li><li>Moderne veiligheidsstandaarden</li></ul>
+
+Russianzorr:
+<br><br><ul><li>presto.social всегда будет бесплатным</li><li>Мы не продаем ваши данные</li><li>Приложение не нужно</li><li>Современные меры безопасности</li></ul>
+
+
+Find replace
+
+@messages recursive
+FIND <strong>Sign</strong> up
+
+REPLACE WITH <strong>Sign</strong> up<br><br><ul><li>presto.social is free and always will be</li><li>We don’t sell your data</li><li>No App needed</li><li>Modern security standards</li></ul>
+
+@same
+
+FIND Don\'t have an account? Join the network by entering your e-mail address.
+
+REPLACE WITH Don\'t have an account? Join the network by entering your e-mail address. <a href="privacy_policy.html">Privacy Policy</a>
